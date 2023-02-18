@@ -1,0 +1,19 @@
+
+body {
+    background-image: url("/img/bdabout.jpeg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  }
+
+  p {
+    padding: 10px;
+    position: absolute;
+    top: 40%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+    color: rgb(197, 90, 129);
+    font-family: 'Taviraj', serif;
+    font-size: 50px;
+    font-weight: 500;
+  }

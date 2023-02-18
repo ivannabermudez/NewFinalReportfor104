@@ -1,0 +1,10 @@
+.input-alert-error{
+    background-color:rgb(255, 149, 149);
+    border: 1px solid red; 
+}
+
+body {
+    background-image: url("/img/baby.webp");
+    background-size: 100%;
+  }
+

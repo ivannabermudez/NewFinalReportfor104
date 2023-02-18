@@ -1,0 +1,18 @@
+body {
+    background-image: url("/img/7x5FT-Sweet-Berry-Girl-Strawberry-Shortcake-Happy-Birthday-Party-Garden-Custom-Photo-Backdrop-Background-Vinyl-220cm.jpeg");
+    background-size: 100%;
+  }
+  .aboutbox{
+    text-align: center;
+  }
+
+  h3 {
+    border: 1px solid rgb(216, 204, 204);
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.5);
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(212, 115, 151);
+  }
